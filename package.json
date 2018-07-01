@@ -1,0 +1,24 @@
+{
+  "name": "@tlaukkan/aframe-three-color-gradient-shader",
+  "version": "0.0.1",
+  "description": "A-Frame Three Color Gradient Shader",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlaukkan/aframe-three-color-gradient-shader.git"
+  },
+  "keywords": [
+    "aframe",
+    "atmosphere",
+    "component"
+  ],
+  "author": "Tommi Laukkanen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlaukkan/aframe-three-color-gradient-shader/issues"
+  },
+  "homepage": "https://github.com/tlaukkan/aframe-three-color-gradient-shader#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
